@@ -1,0 +1,9 @@
+{
+	"name": "adf-iramma-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "be915ea3-4ce3-40f8-8ff0-336e35f889e4",
+		"tenantId": "ec6ca750-74c3-477f-b6e1-2a27b42e6dd2"
+	}
+}
